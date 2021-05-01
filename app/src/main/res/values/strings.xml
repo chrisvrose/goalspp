@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Goals++</string>
+    <string name="btn_goal">Goal!</string>
+    <string name="btn_to">Time out!</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_lol">l</string>
+
+    <string name="futbol">Futbol</string>
+    <string name="futbol1">Team 1</string>
+    <string name="futbol2">Team 2</string>
+    <string name="gc1">Team 1: %1$d</string>
+    <string name="gc2">Team 2: %1$d</string>
+    <string name="t1w">Team 1 Wins!</string>
+    <string name="t2w">Team 2 Wins!</string>
+    <string name="td">Draw</string>
+
+
+</resources>
