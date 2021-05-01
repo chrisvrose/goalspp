@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sm_pad">16</dimen>
+    <dimen name="og_pad">32</dimen>
+    <dimen name="xl_pad">64</dimen>
+
+</resources>
